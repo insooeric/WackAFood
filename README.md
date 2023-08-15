@@ -22,7 +22,9 @@ This project is inspired by the aim trainer game.
 ## Help
 
 * Start the game by selecting the difficulty
-* Any objects except for the bomb grants points.
+* Any objects except for the skull grants points.
+* Object can be popped by clicking.
+* Each time when the user pops an inaccurate object, it will decrease the score as well as the life.
 * Failing to pop the accurate object will promote game over.
 
 ## Authors
@@ -33,8 +35,7 @@ Insoo Son [@LinkedIn]()
 * 1.0
     * Executable file added
 * 0.2
-    * Small Bugs fixed
-    * Fixed compatibility issues
+    * Fixed Audio Problem
 * 0.1
     * Initial Commit
 
@@ -43,4 +44,4 @@ Insoo Son [@LinkedIn]()
 none
 
 ## Acknowledgments
-* Fruit Ninja Game
+* Aim trainer
